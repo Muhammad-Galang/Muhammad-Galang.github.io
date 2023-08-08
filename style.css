@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url("pexels-daniel-absi-952670.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+/* ... existing styles ... */
+
+.header {
+    background-color: rgba(0, 0, 0, 0.7); /* Adjust the background color and opacity as needed */
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* ... rest of the styles ... */
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.nav-links {
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li a{
+    color: white;
+    margin-left: 20px; /* Change this to margin-left */
+    text-decoration: none;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    color: white;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.headline {
+    color: white;
+    font-size: 2.5em;
+    margin-top: 50px;
+}
+
+.subheadline {
+    color: white;
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #777;
+}
+
+.cta-button:hover {
+    background-color: #ff8533;
+}
+
+
