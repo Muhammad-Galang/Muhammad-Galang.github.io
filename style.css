@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url("pexels-daniel-absi-952670.jpg") no-repeat center center fixed;
-    background-size: cover;
+/*    background: url("pexels-daniel-absi-952670.jpg") no-repeat center center fixed;*/
+background-size: cover;
 }
 
 /* ... existing styles ... */
